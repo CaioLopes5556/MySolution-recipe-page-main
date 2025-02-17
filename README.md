@@ -21,11 +21,7 @@ Esta é minha solução para o desafio [Recipe page challenge](https://www.front
 
 - **Desktop | width >= 1366px**
 
-<img src="./assets/images/screenshotDesk.png" width="85%" alt="Screenshot da tela em Desktop">
-
-- **Tablets | width: 810px**
-
-<img src="./assets/images/screenshotTablets.png" width="60%" alt="Screenshot da tela em Tablets">
+<img src="./assets/images/screenshotDesk.png"  width="85%" alt="Screenshot da tela em Desktop">
 
 - **Smartphones | width: 375px**
 
@@ -33,8 +29,8 @@ Esta é minha solução para o desafio [Recipe page challenge](https://www.front
 
 ### Links
 
-- Projeto URL: [Repositório GitHub](https://github.com/CaioLopes5556/)
-- Live Site: [Deploy do Projeto](https://caiolopes5556.github.io/)
+- Projeto URL: [Repositório GitHub](https://github.com/CaioLopes5556/MySolution-recipe-page-main)
+- Live Site: [Deploy do Projeto](https://caiolopes5556.github.io/MySolution-recipe-page-main/)
 
 ## Sobre o projeto
 
